@@ -6,3 +6,7 @@ body{
 section{
     width: 60%;
 }
+
+header{
+    color: red;
+}
