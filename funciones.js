@@ -5,4 +5,5 @@ document.addEventListener("DOMContentLoaded",function(){
     //una nota de prueba
 
     alert("Paso 3")
+    //otra prueba 
 })
